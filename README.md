@@ -45,15 +45,15 @@
 
   ![Deployment options](step-5a.png)
 
-  Copy commands to allow DeployBot to access the machine
-
-  ![Atomic DigitalOcean server](step-5b.png)
-
   SSH to the machine
 
   ```bash
   docker-machine ssh deploybot-demo
   ```
+
+  Copy commands to allow DeployBot to access the machine
+
+  ![Atomic DigitalOcean server](step-5b.png)
 
   Install `docker-compose` (optional)
 
