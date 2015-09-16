@@ -35,7 +35,7 @@
 
   ![Connect a repository](step-3.png)
 
-  _You can use this repository to try it out_
+  _You can fork this repository to try it out_
 
 4. Create an environment
 
