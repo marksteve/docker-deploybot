@@ -4,7 +4,7 @@
 
 - Docker Engine
 - Docker Machine
-- DigitalOcean Personal Access Token
+- a DigitalOcean Personal Access Token
 
 ## Steps
 
