@@ -62,10 +62,12 @@
   chmod +x /usr/local/bin/docker-compose
   ```
 
+And were're done!
+
 ## Try it out
 
 ![Ready to deploy](ready.png)
 
 If you used this repository, you should be able to see a message
-upon visiting `docker-machine ip deploybot-demo`
+upon visiting `http://$(docker-machine ip deploybot-demo)`
 
